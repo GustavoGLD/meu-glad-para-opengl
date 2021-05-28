@@ -1,7 +1,9 @@
 # meu glad para opengl
 
 Language: C/C++
+
 GL: Version 3.3
+
 Profile: core
 
 https://glad.dav1d.de/
